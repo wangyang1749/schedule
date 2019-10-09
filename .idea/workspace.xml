@@ -1,0 +1,945 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e5641d4c-a641-4b6e-9b71-009479eb1398" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/schedule-parent/target/" />
+    <ignored path="$PROJECT_DIR$/schedule-core/target/" />
+    <ignored path="$PROJECT_DIR$/schedule-user/target/" />
+    <ignored path="$PROJECT_DIR$/schedule-web/target/" />
+    <ignored path="$PROJECT_DIR$/schedule-course/target/" />
+    <ignored path="$PROJECT_DIR$/schedule-classroom/target/" />
+    <ignored path="$PROJECT_DIR$/spring-test/target/" />
+    <ignored path="$PROJECT_DIR$/schedule-class-classroom-course/target/" />
+    <ignored path="$PROJECT_DIR$/schedule-grade/target/" />
+    <ignored path="$PROJECT_DIR$/schedule-article/target/" />
+    <ignored path="$PROJECT_DIR$/basic-hibernate/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="schedule" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="3" column="9" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="Interface" />
+        <option value="Jsp File" />
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>classroom</find>
+      <find>struts-default</find>
+      <find>geadeDao;</find>
+      <find>grade</find>
+      <find>user</find>
+      <find>article</find>
+      <find>building the effective model for com.wangyang.parent:schedule-web:war:1.0-SNAPSHOT</find>
+      <find>aspectjweaver</find>
+      <find>dbcp</find>
+      <find>.my-layout-list4</find>
+      <find>json</find>
+      <find>log</find>
+      <find>log4j</find>
+      <find>web</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/schedule-web/src/main/java/com/wangyang/action/ArticleAction.java" />
+        <option value="$PROJECT_DIR$/schedule-core/src/main/java/com/wangyang/dao/impl/ArticleDao.java" />
+        <option value="$PROJECT_DIR$/basic-hibernate/src/main/java/com/wangyang/dao/IBaseDao.java" />
+        <option value="$PROJECT_DIR$/basic-hibernate/src/test/java/com/wangyang/Test.java" />
+        <option value="$PROJECT_DIR$/basic-hibernate/src/main/java/com/wangyang/basic/dao/BaseDao11.java" />
+        <option value="$PROJECT_DIR$/basic-hibernate/src/test/java/com/wangyang/basic/dao/IUserDao.java" />
+        <option value="$PROJECT_DIR$/basic-hibernate/src/test/java/com/wangyang/basic/dao/UserDao.java" />
+        <option value="$PROJECT_DIR$/basic-hibernate/src/test/resources/t_user.xml" />
+        <option value="$PROJECT_DIR$/basic-hibernate/src/test/java/com/wangyang/basic/util/DBuntil.java" />
+        <option value="$PROJECT_DIR$/basic-hibernate/src/test/java/com/wangyang/basic/util/AbstractDbunitTestCase.java" />
+        <option value="$PROJECT_DIR$/basic-hibernate/src/test/java/com/wangyang/basic/test/TestUserDao.java" />
+        <option value="$PROJECT_DIR$/schedule-web/src/main/resources/log4j2.xml" />
+        <option value="$PROJECT_DIR$/basic-hibernate/pom.xml" />
+        <option value="$PROJECT_DIR$/basic-hibernate/src/test/resources/log4j2.xml" />
+        <option value="$PROJECT_DIR$/basic-hibernate/src/test/resources/beans.xml" />
+        <option value="$PROJECT_DIR$/basic-hibernate/src/test/java/com/wangyang/basic/util/InitData.java" />
+        <option value="$PROJECT_DIR$/basic-hibernate/src/test/java/com/wangyang/basic/model/User.java" />
+        <option value="$PROJECT_DIR$/basic-hibernate/src/main/java/com/wangyang/basic/model/SystemContext.java" />
+        <option value="$PROJECT_DIR$/basic-hibernate/src/main/java/com/wangyang/basic/model/Pager.java" />
+        <option value="$PROJECT_DIR$/basic-hibernate/src/main/java/com/wangyang/basic/dao/IBaseDao.java" />
+        <option value="$PROJECT_DIR$/basic-hibernate/src/main/java/com/wangyang/basic/dao/BaseDao.java" />
+        <option value="$PROJECT_DIR$/schedule-core/pom.xml" />
+        <option value="$PROJECT_DIR$/schedule-core/src/main/java/com/wangyang/basic/dao/IScheduleDao.java" />
+        <option value="$PROJECT_DIR$/schedule-core/src/main/java/com/wangyang/basic/dao/impl/ScheduleDao.java" />
+        <option value="$PROJECT_DIR$/schedule-class-classroom-course/src/main/java/com/wangyang/ScheduleService.java" />
+        <option value="$PROJECT_DIR$/schedule-user/src/main/java/com/wangyang/service/IUserService.java" />
+        <option value="$PROJECT_DIR$/schedule-user/src/main/java/com/wangyang/service/UserService.java" />
+        <option value="$PROJECT_DIR$/schedule-core/src/test/java/com/wangyang/test/TBaseDao.java" />
+        <option value="$PROJECT_DIR$/schedule-user/src/main/java/com/wangyang/user/model.fxml" />
+        <option value="$PROJECT_DIR$/schedule-user/src/main/java/com/wangyang/user/dao/UserDao.java" />
+        <option value="$PROJECT_DIR$/schedule-user/src/main/java/com/wangyang/user/dao/IUserDao.java" />
+        <option value="$PROJECT_DIR$/schedule-core/src/main/java/com/wangyang/core/dao/IScheduleDao.java" />
+        <option value="$PROJECT_DIR$/schedule-core/src/main/java/com/wangyang/dao/IScheduleDao.java" />
+        <option value="$PROJECT_DIR$/schedule-core/src/main/java/com/wangyang/dao/impl/UserDao.java" />
+        <option value="$PROJECT_DIR$/schedule-core/src/main/java/com/wangyang/basic/dao/impl/UserDao.java" />
+        <option value="$PROJECT_DIR$/schedule-core/src/main/java/com/wangyang/basic/dao/IUserDao.java" />
+        <option value="$PROJECT_DIR$/schedule-user/src/main/java/com/wangyang/user/model/UserException.java" />
+        <option value="$PROJECT_DIR$/schedule-user/src/main/java/com/wangyang/user/service/UserService.java" />
+        <option value="$PROJECT_DIR$/schedule-user/src/main/java/com/wangyang/user/service/IUserService.java" />
+        <option value="$PROJECT_DIR$/schedule-user/src/test/java/com/wangyang/test/JedisT.java" />
+        <option value="$PROJECT_DIR$/schedule-web/src/main/resources/applicationContext.xml" />
+        <option value="$PROJECT_DIR$/schedule-user/src/main/java/com/wangyang/user/dao/impl/UserDao.java" />
+        <option value="$PROJECT_DIR$/schedule-user/src/test/resources/beans.xml" />
+        <option value="$PROJECT_DIR$/schedule-parent/pom.xml" />
+        <option value="$PROJECT_DIR$/schedule-user/pom.xml" />
+        <option value="$PROJECT_DIR$/schedule-user/src/test/java/com/wangyang/user/service/TestUserService.java" />
+        <option value="$PROJECT_DIR$/basic-hibernate/src/test/java/com/wangyang/basic/dao/TestUserDao.java" />
+        <option value="$PROJECT_DIR$/schedule-user/src/main/java/com/wangyang/user/model/User.java" />
+        <option value="$PROJECT_DIR$/schedule-user/src/main/java/com/wangyang/user/model/Student.java" />
+        <option value="$PROJECT_DIR$/schedule-web/pom.xml" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="E:/tool/maven/apache-maven-3.6.0" />
+        <option name="userSettingsFile" value="E:\tool\maven\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-162" />
+    <option name="y" value="160" />
+    <option name="width" value="1346" />
+    <option name="height" value="702" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="schedule" type="b2602c69:ProjectViewProjectNode" />
+              <item name="schedule-user" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="schedule" type="b2602c69:ProjectViewProjectNode" />
+              <item name="schedule-user" type="462c0819:PsiDirectoryNode" />
+              <item name=".settings" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553252158230" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Project04/ssh-project" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15793781" />
+    <property name="project.structure.side.proportion" value="0.303207" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.wangyang.basic.model" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\JavaProject\schedule_project\schedule\schedule-user\src\test" />
+      <recent name="E:\JavaProject\schedule_project\schedule\basic-hibernate\src\test\resources" />
+      <recent name="E:\JavaProject\schedule_project\schedule\basic-hibernate\src\main\resources" />
+      <recent name="E:\JavaProject\schedule_project\schedule\schedule-web\src\main\webapp\WEB-INF\course" />
+      <recent name="E:\JavaProject\schedule_project\schedule\schedule-web\src\main\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.wangyang.user.dao" />
+      <recent name="com.wangyang.user.model" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\JavaProject\schedule_project\schedule\basic-hibernate\src\test\resources" />
+      <recent name="E:\JavaProject\schedule_project\schedule\schedule-web\src\main" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.TestUserService.test">
+    <configuration name="All in schedule-user" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="schedule-user" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestUserDao.find" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="basic-hibernate" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wangyang.basic.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.wangyang.basic.dao" />
+      <option name="MAIN_CLASS_NAME" value="com.wangyang.basic.dao.TestUserDao" />
+      <option name="METHOD_NAME" value="find" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestUserDao.findsBySqlArgs" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="basic-hibernate" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wangyang.basic.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.wangyang.basic.dao" />
+      <option name="MAIN_CLASS_NAME" value="com.wangyang.basic.dao.TestUserDao" />
+      <option name="METHOD_NAME" value="findsBySqlArgs" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestUserDao.findsBySqlArgsIsPageIndex" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="basic-hibernate" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wangyang.basic.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.wangyang.basic.dao" />
+      <option name="MAIN_CLASS_NAME" value="com.wangyang.basic.dao.TestUserDao" />
+      <option name="METHOD_NAME" value="findsBySqlArgsIsPageIndex" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestUserService.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="schedule-user" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wangyang.user.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.wangyang.user.service" />
+      <option name="MAIN_CLASS_NAME" value="com.wangyang.user.service.TestUserService" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestUserService.test" />
+        <item itemvalue="JUnit.TestUserDao.find" />
+        <item itemvalue="JUnit.TestUserDao.findsBySqlArgsIsPageIndex" />
+        <item itemvalue="JUnit.All in schedule-user" />
+        <item itemvalue="JUnit.TestUserDao.findsBySqlArgs" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e5641d4c-a641-4b6e-9b71-009479eb1398" name="Default Changelist" comment="" />
+      <created>1551783802700</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1551783802700</updated>
+      <workItem from="1551783807350" duration="11225000" />
+      <workItem from="1551852427376" duration="44114000" />
+      <workItem from="1551954593490" duration="12478000" />
+      <workItem from="1552018585909" duration="50946000" />
+      <workItem from="1552189494086" duration="45895000" />
+      <workItem from="1552308354142" duration="28848000" />
+      <workItem from="1552403438552" duration="1555000" />
+      <workItem from="1552429776084" duration="16313000" />
+      <workItem from="1552717607441" duration="1788000" />
+      <workItem from="1552723412387" duration="8564000" />
+      <workItem from="1552796424780" duration="8398000" />
+      <workItem from="1552882653348" duration="763000" />
+      <workItem from="1552904551443" duration="1084000" />
+      <workItem from="1552983079327" duration="9691000" />
+      <workItem from="1553066506461" duration="1882000" />
+      <workItem from="1553073882949" duration="6881000" />
+      <workItem from="1553086921070" duration="5404000" />
+      <workItem from="1553137306508" duration="4159000" />
+      <workItem from="1553230058525" duration="13361000" />
+      <workItem from="1553334557721" duration="588000" />
+      <workItem from="1553391904018" duration="307000" />
+      <workItem from="1570610093022" duration="652000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="TestUserService_test - 2019.03.22 at 15h 10m 02s.xml">
+      <configuration name="TestUserService.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestUserService_test - 2019.03.22 at 15h 10m 35s.xml">
+      <configuration name="TestUserService.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestUserService_test - 2019.03.22 at 15h 11m 33s.xml">
+      <configuration name="TestUserService.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestUserService_test - 2019.03.22 at 15h 13m 11s.xml">
+      <configuration name="TestUserService.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestUserDao_find - 2019.03.22 at 15h 16m 57s.xml">
+      <configuration name="TestUserDao.find" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestUserDao_find - 2019.03.22 at 15h 17m 10s.xml">
+      <configuration name="TestUserDao.find" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestUserService_test - 2019.03.22 at 15h 17m 53s.xml">
+      <configuration name="TestUserService.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestUserService_test - 2019.03.22 at 15h 29m 01s.xml">
+      <configuration name="TestUserService.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestUserService_test - 2019.03.22 at 15h 30m 20s.xml">
+      <configuration name="TestUserService.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestUserService_test - 2019.03.22 at 15h 32m 08s.xml">
+      <configuration name="TestUserService.test" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="274896000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.497545" visible="true" weight="0.2677761" />
+      <window_info id="Structure" order="1" sideWeight="0.50274724" side_tool="true" weight="0.30484116" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.502455" side_tool="true" weight="0.2980333" />
+      <window_info id="Web" order="7" sideWeight="0.502455" side_tool="true" weight="0.27155825" />
+      <window_info anchor="bottom" id="Messages" order="0" weight="0.3289689" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.3289689" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.44026187" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="6" sideWeight="0.7526475" weight="0.5040917" />
+      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.3295082" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.2473525" side_tool="true" weight="0.32733223" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="bottom" id="Spring" order="13" weight="0.3289689" />
+      <window_info anchor="bottom" id="Java Enterprise" order="14" weight="0.3289689" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24962178" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24962178" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven" order="5" weight="0.41981846" />
+      <window_info anchor="right" id="Database" order="6" weight="0.32980332" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" x="0" y="0" width="295" height="544" id="Documentation" order="9" side_tool="true" weight="0.32980332" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.497545" visible="true" weight="0.21028744" />
+      <window_info id="Structure" order="1" sideWeight="0.50274724" side_tool="true" weight="0.30484116" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" sideWeight="0.502455" side_tool="true" weight="0.27155825" />
+      <window_info anchor="bottom" id="Messages" order="0" weight="0.3289689" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.3289689" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.23076923" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="6" sideWeight="0.7526475" visible="true" weight="0.15548281" />
+      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.2473525" side_tool="true" weight="0.32733223" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="bottom" id="Spring" order="13" weight="0.3289689" />
+      <window_info anchor="bottom" id="Java Enterprise" order="14" weight="0.3289689" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24962178" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24962178" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info active="true" anchor="right" id="Maven" order="5" visible="true" weight="0.21785174" />
+      <window_info anchor="right" id="Database" order="6" weight="0.32980332" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" x="0" y="0" width="295" height="544" id="Documentation" order="9" side_tool="true" weight="0.32980332" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>alias</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/basic-hibernate/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic-hibernate/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic-hibernate/target/surefire-reports/com.wangyang.basic.dao.TestUserDao.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic-hibernate/target/surefire-reports/TEST-com.wangyang.basic.dao.TestUserDao.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1440" />
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-tx/5.1.0.RELEASE/spring-tx-5.1.0.RELEASE.jar!/org/springframework/transaction/interceptor/TransactionInterceptor.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://D:/Program File/JDK/java/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="41" column="5" selection-start-line="39" selection-start-column="11" selection-end-line="41" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.1.0.RELEASE/spring-aop-5.1.0.RELEASE.jar!/org/springframework/aop/framework/ReflectiveMethodInvocation.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1459">
+          <caret line="69" selection-start-line="69" selection-end-line="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.1.0.RELEASE/spring-aop-5.1.0.RELEASE.jar!/org/springframework/aop/support/AopUtils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="195" selection-start-line="195" selection-end-line="195" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic-hibernate/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="7" column="27" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/schedule-core/src/main/java/com/wangyang/util/SystemContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/schedule-core/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="23" column="21" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/schedule-class-classroom-course/src/main/java/com/wangyang/IScheduleService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/schedule-class-classroom-course/src/main/java/com/wangyang/ScheduleService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-563">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/schedule-user/src/main/java/com/wangyang.java" />
+    <entry file="file://$PROJECT_DIR$/schedule-core/src/test/java/com/wangyang/test/TBaseDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-840">
+          <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/schedule-user/src/main/java/com/wangyang/user/Model.java" />
+    <entry file="file://$PROJECT_DIR$/schedule-user/src/main/java/com/wangyang/user/model.fxml" />
+    <entry file="file://$PROJECT_DIR$/schedule-core/src/main/java/com/wangyang/util/IBaseDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/schedule-core/src/main/java/com/wangyang/util/BaseDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="37" column="16" selection-start-line="37" selection-start-column="16" selection-end-line="37" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/schedule-core/src/main/java/com/wangyang/basic/dao/impl/ArticleDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/schedule-core/src/main/java/com/wangyang/basic/dao/impl/ScheduleDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/schedule-core/src/main/java/com/wangyang/basic/dao/IScheduleDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/schedule-core/src/main/java/com/wangyang/basic/dao/IClassroomDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/schedule-core/src/main/java/com/wangyang/basic/dao/IUserDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/schedule-user/src/main/java/com/wangyang/user/dao/IUserDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/schedule-user/src/main/java/com/wangyang/user/service/IUserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="50" column="11" selection-start-line="50" selection-start-column="11" selection-end-line="50" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/schedule-user/src/main/resources/beans-user.xml" />
+    <entry file="file://$PROJECT_DIR$/schedule-user/src/test/java/com/wangyang/test/JedisT.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic-hibernate/src/main/java/com/wangyang/basic/model/SystemContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="e#131#140#0" expanded="true" />
+            <element signature="e#645#646#0" expanded="true" />
+            <element signature="e#1193#1194#0" expanded="true" />
+            <element signature="e#1234#1235#0" expanded="true" />
+            <element signature="e#1272#1273#0" expanded="true" />
+            <element signature="e#1310#1311#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic-hibernate/src/main/java/com/wangyang/basic/dao/IBaseDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2220">
+          <caret line="74" selection-start-line="74" selection-end-line="75" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/schedule-user/src/main/java/com/wangyang/user/dao/impl/UserDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/schedule-web/src/main/resources/applicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="601">
+          <caret line="61" column="3" selection-start-line="61" selection-start-column="3" selection-end-line="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic-hibernate/src/test/resources/beans.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/schedule-user/src/test/resources/beans.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="65" column="4" lean-forward="true" selection-start-line="65" selection-start-column="4" selection-end-line="68" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic-hibernate/src/test/java/com/wangyang/basic/dao/TestUserDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="150" selection-start-line="150" selection-end-line="150" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/schedule-user/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1336">
+          <caret line="46" column="37" selection-start-line="46" selection-start-column="37" selection-end-line="46" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic-hibernate/src/main/java/com/wangyang/basic/dao/BaseDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="165" selection-start-line="165" selection-end-line="165" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1206#1207#0" expanded="true" />
+            <element signature="e#1259#1260#0" expanded="true" />
+            <element signature="e#3360#3361#0" expanded="true" />
+            <element signature="e#3415#3416#0" expanded="true" />
+            <element signature="e#3630#3631#0" expanded="true" />
+            <element signature="e#3680#3681#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/schedule-core/src/main/java/com/wangyang/basic/dao/impl/UserDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="9" selection-start-line="9" selection-end-line="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic-hibernate/src/main/java/com/wangyang/basic/model/Pager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="60" column="16" selection-start-line="60" selection-start-column="16" selection-end-line="60" selection-end-column="16" />
+          <folding>
+            <element signature="e#905#906#0" expanded="true" />
+            <element signature="e#939#940#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/schedule-user/src/main/java/com/wangyang/user/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2730">
+          <caret line="112" column="5" selection-start-line="112" selection-start-column="5" selection-end-line="112" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/schedule-user/src/main/java/com/wangyang/user/model/UserException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="16" />
+          <folding>
+            <element signature="e#115#116#0" expanded="true" />
+            <element signature="e#138#139#0" expanded="true" />
+            <element signature="e#182#183#0" expanded="true" />
+            <element signature="e#212#213#0" expanded="true" />
+            <element signature="e#273#274#0" expanded="true" />
+            <element signature="e#310#311#0" expanded="true" />
+            <element signature="e#355#356#0" expanded="true" />
+            <element signature="e#383#384#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/schedule-user/src/main/java/com/wangyang/user/model/Teacher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/schedule-user/src/main/java/com/wangyang/user/model/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/schedule-user/src/main/java/com/wangyang/user/model/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/schedule-user/src/test/java/com/wangyang/user/service/TestUserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="21" column="54" selection-start-line="21" selection-start-column="54" selection-end-line="21" selection-end-column="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/schedule-parent/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="34" column="12" selection-start-line="34" selection-start-column="12" selection-end-line="34" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/schedule-web/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-684">
+          <caret line="58" column="8" selection-start-line="58" selection-start-column="8" selection-end-line="58" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-test/src/main/java/com/wangyang/IUserDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-test/src/main/java/com/wangyang/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-test/src/main/java/com/wangyang/UserDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="3" column="9" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>schedule-web:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.303207" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring (schedule-article)|Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.303207" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.13346228" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>schedule-web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.303207" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.303207" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

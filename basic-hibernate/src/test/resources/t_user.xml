@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<dataset>
+    <t_user id="1" username="悟空" password="12346"/>
+    <t_user id="2" username="八戒" password="abcd"/>
+    <t_user id="3" username="唐僧" password="17489"/>
+</dataset>

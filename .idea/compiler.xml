@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="basic-hibernate" />
+        <module name="schedule-article" />
+        <module name="schedule-class-classroom" />
+        <module name="schedule-classroom" />
+        <module name="schedule-core" />
+        <module name="schedule-course" />
+        <module name="schedule-grade" />
+        <module name="schedule-user" />
+        <module name="schedule-web" />
+        <module name="spring-test" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="basic-hibernate" target="1.8" />
+      <module name="schedule-article" target="1.8" />
+      <module name="schedule-class-classroom" target="1.8" />
+      <module name="schedule-classroom" target="1.8" />
+      <module name="schedule-core" target="1.8" />
+      <module name="schedule-course" target="1.8" />
+      <module name="schedule-grade" target="1.8" />
+      <module name="schedule-parent" target="1.5" />
+      <module name="schedule-user" target="1.8" />
+      <module name="schedule-web" target="1.8" />
+      <module name="spring-test" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

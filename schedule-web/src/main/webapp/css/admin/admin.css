@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    color: #727d84;
+
+}
+a{
+
+    text-decoration: none;
+}
+.c_nav{
+    height: 30px;
+    background: #87b6cc;
+}
+.c_nav dd{
+    float: right;
+    line-height: 30px;
+    width: 80px;
+}
+/* 表格样式 */
+.tab{
+    border-collapse: collapse;
+    text-align: center;
+    width: 100%;
+}
+.tab,.tab th,.tab td{
+    border: 1px solid #e0f0ff;
+}
+.tab tr:NTH-CHILD(2n+1){
+    background-color:#f4f4f4;
+}
+.tab tr:nth-child(1){
+    background: #e0f0ff;
+}
+.tab tr:hover{
+    background:#bbbec1;
+}

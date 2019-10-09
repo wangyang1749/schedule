@@ -1,0 +1,57 @@
+*{
+	padding: 0;
+	margin: 0;
+	font-size: 0.373rem;
+	color: #333;
+}
+ul,li{list-style: none;}
+
+    /*component @tabletime*/
+    .tabletime{
+      width: 10.0rem;
+      position: relative;
+    }
+   .tabletime table{
+      width: 100%;
+      border-collapse: collapse;
+    }
+   .tabletime table tr{
+      height: 1.36rem;
+    }
+    .tabletime table thead tr{
+      height: 0.667rem;
+    }
+   .tabletime table th,.tabletime table td{
+      width: 1.333rem;
+      border-bottom: 2px solid #D3D3D3;
+      text-align: center;
+    }
+    .tabletime table th:first-child,.tabletime table td:first-child{
+      width: 0.6667rem;
+    }
+    .tabletime table th,.tabletime table td:first-child{
+      background-color: #c6c6ff;
+      color: #7967D0;
+      border-color:#c6c6ff;
+    }
+    .tabletime .lightUp{
+      color: #fff;
+      background: #7967d0;
+    }
+    .tabletime table th:first-child{
+      background-color: #fff;
+    }
+   .tabletime .classitem{
+      position: absolute;
+      width: 1.307rem;
+      border-radius: 5px;
+      box-sizing: border-box;
+      padding: 0.08rem;
+      background-color: #ccc;
+      color: #fff;
+      font-size:0.32rem;
+      text-align: center;
+      overflow: hidden;
+      display: flex;
+      align-items: center;
+   }  

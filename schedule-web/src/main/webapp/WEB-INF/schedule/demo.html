@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"> 
+<link rel="stylesheet" type="text/css" href="style/main.css">
+<script type="text/javascript" src="script/zepto.min.js"></script>
+<script type="text/javascript" src="script/flexiable.js"></script>
+<script type="text/javascript" src="script/timetable.js"></script>
+<title>课表</title>
+</head>
+<body>
+	<div class="container">
+    <div id="table1"></div>
+	</div>
+  <script type="text/javascript">
+    /*
+      week代表星期几上课，
+      seq代表第几节，
+      dur表示上课长度，如2代表连上2节，
+      evt代表具体内容。
+    */
+    var datas= [
+      { "week": 1, "seq": 1, "dur": 2, "evt": "高等数学@1教-502" },
+      { "week": 1, "seq": 5, "dur": 3, "evt": "高等数学@1教-502" },
+      { "week": 2, "seq": 1, "dur": 2, "evt": "高等数学@1教-502"},
+      { "week": 2, "seq": 8, "dur": 2, "evt": "高等数学@1教-502" },
+      { "week": 3, "seq": 4, "dur": 1, "evt": "高等数学@1教-502" },
+      { "week": 3, "seq": 8, "dur": 1, "evt": "高等数学@1教-502" },
+      { "week": 3, "seq": 5, "dur": 2, "evt": "高等数学@1教-502" },
+      { "week": 4, "seq": 2, "dur": 3, "evt": "高等数学@1教-502" },
+      { "week": 4, "seq": 8, "dur": 2, "evt": "高等数学@1教-502" },
+      { "week": 5, "seq": 1, "dur": 2, "evt": "高等数学@1教-502" },
+      { "week": 6, "seq": 3, "dur": 2, "evt": "高等数学@1教-502" },
+      { "week": 7, "seq": 5, "dur": 3, "evt": "高等数学@1教-502" }
+    ];    
+
+    $("#table1").timeTable({
+      classNum:"12",
+      wlist:datas
+    });
+
+  </script>
+</body>
+</html>

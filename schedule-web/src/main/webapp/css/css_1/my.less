@@ -1,0 +1,135 @@
+@r:375/10rem;
+ /*我的界面顶部*/
+ .my-flex{
+    position: relative;
+    text-align: center;
+    height: 45/@r;/*浮动撑起*/
+}
+ .my-flex-left,.my-flex-right{
+     float: left;
+     background:#01a4ed;
+     width: 50%;
+     position: relative;
+     height: 45/@r;
+     border-radius: 0 0 50/@r 0;
+     line-height: 45/@r;
+     color: #fff;
+ }
+ .my-flex-left::after{
+     content: '';
+     width: 50/@r;
+     height: 50/@r;
+     background:#01a4ed;
+     position: absolute;
+     right: -42/@r;
+     bottom: 17/@r;
+     border-radius: 143/@r 10/@r 95/@r;
+ }
+ .my-flex-right{
+     border-radius: 0 0 0 50/@r;
+ }
+ .my-user{
+     width: 54/@r;
+     height: 54/@r;
+     position: absolute;
+     background: green;
+     left: 50%;
+     margin-left: -27/@r;
+     top: 18/@r;
+     z-index: 999;
+     border-radius: 50%;
+ }
+ .my-user-img{
+     
+ }
+ 
+ .my-layout-list{
+     text-align: center;
+     overflow: hidden;
+     padding: 15/@r 0;
+     background: #fff;
+     position: relative;
+ }
+ .my-layout-list-left,.my-layout-list-right{
+     width: 50%;
+     float: left;
+     background: #fff;
+ }
+ .divHeight{
+     width: 100%;
+     height: 10/@r;
+     background: #f5f5f5;
+     position: relative;
+     overflow: hidden;
+ }
+
+ .my-list{
+     padding: 15/@r;
+     background: #fff;
+     position: relative;
+ }
+ .my-list-box{
+     background: #fff;
+     font-size: 14/@r;
+     color: #333;
+ }
+ .my-list-box::after{
+     content: '';
+     position: absolute;
+     z-index: 2;
+     bottom: 0;
+     left: 0;
+     width: 100%;
+     height: 1/@r;
+     border-bottom: 1/@r solid #e2e2e2;
+ }
+
+
+ .my-layout-list-item{
+     width: 33.3%;
+     display: block;
+     float: left;
+     color: #666666;
+      font-size: 18/@r;
+     background: #fff;
+     position: relative;
+ }
+ .my-layout-list-item::before{
+     content: "";
+     position: absolute;
+     z-index: 0;
+     top: 0;
+     right: 0;
+     height: 100%;
+     border-right: 1/@r solid #D9D9D9;
+ }
+ .my-layout-list-item div{
+     background: #fff;
+ }
+
+ .my-layout-list4 {
+     background: #fff;
+     overflow: hidden;
+     font-size: 16/@r;
+ }
+ a.mylayout-list4-item {
+     width: 25%;
+     display: block;
+     float: left;
+     text-align: center;
+     position: relative;
+     border-bottom: 1/@r solid #D9D9D9;
+     background: #fff;
+     padding: 15/@r 0;
+ }
+ a.mylayout-list4-item::after {
+     content: "";
+     border-right: 1/@r solid #D9D9D9;
+     position: absolute;
+     right: 0;
+     height: 100%;
+     top: 0/@r;
+ }
+ .mylayout-list4-item4::after{
+     border-right:none !important; 
+ }

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE struts PUBLIC
+        "-//Apache Software Foundation//DTD Struts Configuration 2.5//EN"
+        "http://struts.apache.org/dtds/struts-2.5.dtd">
+
+<struts>
+    <constant name="struts.devMode" value="true" />
+
+    
+    <package name="default" extends="struts-default" namespace="">
+        <interceptors>
+            <interceptor name="validation" class="com.wangyang.action.ValidationInterceptor"/>
+        </interceptors>
+        <global-results>
+            <result name="loginInput">/WEB-INF/user/loginInput.jsp</result>
+            <result name="error">/WEB-INF/error.jsp</result>
+        </global-results>
+        <global-allowed-methods>regex:.*</global-allowed-methods>
+
+        <global-exception-mappings>
+            <exception-mapping exception="java.lang.NoSuchMethodException" result="error">
+
+            </exception-mapping>
+        </global-exception-mappings>
+
+
+        <action name="*_*" class="{1}Action" method="{2}">
+            <exception-mapping exception="java.lang.NoSuchMethodException" result="error"/>
+            <interceptor-ref name="validation"/>
+            <interceptor-ref name="defaultStack"/>
+            <result>/WEB-INF/{1}/{2}.jsp</result>
+            <result name="redirect" type="redirect">${url}</result>
+        </action>
+    </package>
+</struts>

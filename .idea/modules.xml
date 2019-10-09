@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/basic-hibernate/basic-hibernate.iml" filepath="$PROJECT_DIR$/basic-hibernate/basic-hibernate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/schedule-article/schedule-article.iml" filepath="$PROJECT_DIR$/schedule-article/schedule-article.iml" />
+      <module fileurl="file://$PROJECT_DIR$/schedule-class-classroom-course/schedule-class-classroom.iml" filepath="$PROJECT_DIR$/schedule-class-classroom-course/schedule-class-classroom.iml" />
+      <module fileurl="file://$PROJECT_DIR$/schedule-classroom/schedule-classroom.iml" filepath="$PROJECT_DIR$/schedule-classroom/schedule-classroom.iml" />
+      <module fileurl="file://$PROJECT_DIR$/schedule-core/schedule-core.iml" filepath="$PROJECT_DIR$/schedule-core/schedule-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/schedule-course/schedule-course.iml" filepath="$PROJECT_DIR$/schedule-course/schedule-course.iml" />
+      <module fileurl="file://$PROJECT_DIR$/schedule-grade/schedule-grade.iml" filepath="$PROJECT_DIR$/schedule-grade/schedule-grade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/schedule-parent/schedule-parent.iml" filepath="$PROJECT_DIR$/schedule-parent/schedule-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/schedule-user/schedule-user.iml" filepath="$PROJECT_DIR$/schedule-user/schedule-user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/schedule-web/schedule-web.iml" filepath="$PROJECT_DIR$/schedule-web/schedule-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-test/spring-test.iml" filepath="$PROJECT_DIR$/spring-test/spring-test.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+   
+    <script>
+        (function(){
+            var html = document.documentElement;
+            var hWidth = html.getBoundingClientRect().width;
+            html.style.fontSize = hWidth/16 + "px";
+        })()
+    </script>
+   
+    <link rel="stylesheet" type="text/css" href="css/iconfont.css">
+    <link rel="stylesheet" type="text/css" href="css/index.css">
+    <link rel="stylesheet" type="text/css" href="css/home.css">
+    <style>
+        #change{
+            display: none;
+        }
+        .table{
+            font-size: 14px;
+            width: 100%;
+        }
+
+    </style>
+    <title>Document</title>
+
+    
+</head>
+<body>
+    <section id="change">
+        <div class="top-box">
+            <a class="top-box-left-icon"><i class="iconfont icon-return"></i></a>
+            <a href="" class="top-box-right">更新课表</a>
+        </div>
+        
+        <div class="schedule-box">
+            <dl class="schedule-box-items">
+                <dd class="schedule-box-item"><span class="schedule-box-item-left">课名:</span><span>生物化学</span></dd>
+                <dd class="schedule-box-item"><span class="schedule-box-item-left">课名:</span><span>生物化学</span></dd>
+                <dd class="schedule-box-item"><span class="schedule-box-item-left">课名:</span><span>生物化学</span></dd>
+                <dd class="schedule-box-item"><span class="schedule-box-item-left">课名:</span><span>生物化学</span></dd>
+            </dl>
+        </div>
+    </section>
+    
+    <section>
+        <div class="top-box">
+
+        </div>
+
+        <table border="1" class="table">
+            <tr><td>12月</td><td id="1">周一</td><td id="2">周二</td><td id="3">周三</td><td id="4">周四</td><td id="5">周五</td><td id="6">周六</td><td id="7">周日</td></tr> 
+            <tr><td>12月</td><td id="1">周一</td><td id="2">周二</td><td id="3">周三</td><td id="4">周四</td><td id="5">周五</td><td id="6">周六</td><td id="7">周日</td></tr>    
+            <tr><td>12月</td><td id="1">周一</td><td id="2">周二</td><td id="3">周三</td><td id="4">周四</td><td id="5">周五</td><td id="6">周六</td><td id="7">周日</td></tr> 
+        </table>
+                
+    </section>
+
+
+    <!--底部导航-->
+    <div class="footer">
+        <a href="" class="tabbar-item tabber-active">
+            <span class="tabbar-iocn"><i class="iconfont icon-home"></i></span>
+            <span class="tabbar-txt">课表</span>
+        </a>
+        <a href="" class="tabbar-item tabber-active">
+            <span class="tabbar-iocn"><i class="iconfont icon-many"></i></span>
+            <span class="tabbar-txt">发现</span>
+        </a>
+        <a href="" class="tabbar-item tabber-active">
+            <span class="tabbar-iocn"><i class="iconfont icon-my"></i></span>
+            <span class="tabbar-txt">我的</span>
+        </a>
+    </div>
+       
+    <script src="js/jquery-3.3.1.js"></script>
+    <script>
+        
+    </script>
+</body>
+</html>
